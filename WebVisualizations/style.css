@@ -1,0 +1,30 @@
+.navbar-brand { 
+    background-color: #4AA09B;
+    margin: 0%;
+}
+#white-text{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+body{
+    background: lightgrey;
+}
+.navbar-expand-lg{
+    padding: 0%;
+    
+}
+.navbar-toggler{
+    background-color: #4AA09B;
+ }
+/* .navbar-toggler{
+    background-color: #4AA09B !important;
+} */
+#visualization-block { 
+    background: white;
+
+}
+#summary-block{
+    background: white;
+}
